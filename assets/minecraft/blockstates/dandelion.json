@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"": [
+			{ "model": "block/dandelion/dandelion1", "weight": 1 },   
+			{ "model": "block/dandelion/dandelion2", "weight": 1 },
+			{ "model": "block/dandelion/dandelion3", "weight": 1 },   
+			{ "model": "block/dandelion/dandelion4", "weight": 1 }
+		]
+	}
+}

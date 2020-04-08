@@ -1,0 +1,13 @@
+{
+	"pack": {
+		"pack_format": 5,
+		"description": "Krulunio's edit of Last Days pack"
+	},
+	"language":{
+		"en_ld":{
+			"name":"LAST DAYS",
+			"region":"The Wastes",
+			"bidirectional":false
+		}
+	}
+}
