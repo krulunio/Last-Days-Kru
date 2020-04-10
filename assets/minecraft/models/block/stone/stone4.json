@@ -1,6 +1,8 @@
 {
-    "parent": "block/cube_all",
+    "parent": "block/cube_bottom_top",
     "textures": {
-        "all": "block/stone/stone4"
+        "top": "block/stone/stone4",
+        "bottom": "block/stone/stone1",
+        "side": "block/stone/stone1"
     }
 }
