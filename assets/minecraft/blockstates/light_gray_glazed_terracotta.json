@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "minecraft:block/light_gray_glazed_terracotta1"
+    },
+    "facing=north": {
+      "model": "minecraft:block/light_gray_glazed_terracotta2"
+    },
+    "facing=south": {
+      "model": "minecraft:block/light_gray_glazed_terracotta1"
+    },
+    "facing=west": {
+      "model": "minecraft:block/light_gray_glazed_terracotta2"
+    }
+  }
+}
