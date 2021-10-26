@@ -1,0 +1,7 @@
+{
+  "parent": "block/crop_small",
+  "textures": {
+    "crop": "block/beetroots_stage3",
+	"dish": "block/beetroots_dish_on"
+  }
+}

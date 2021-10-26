@@ -1,0 +1,6 @@
+{   
+	"parent": "block/outer_stairs_LD",
+    "textures": {
+		"side": "block/polished_diorite_tiles"
+    }
+}

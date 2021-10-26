@@ -1,0 +1,7 @@
+{   
+	"parent": "block/stairs_LD",
+    "textures": {
+		"back": "block/polished_granite_slab",
+		"side": "block/polished_granite_tiles"
+    }
+}

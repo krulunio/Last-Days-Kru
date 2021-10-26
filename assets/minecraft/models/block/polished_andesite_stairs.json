@@ -1,0 +1,7 @@
+{   
+	"parent": "block/stairs_LD",
+    "textures": {
+		"back": "block/polished_andesite_slab",
+		"side": "block/polished_andesite_tiles"
+    }
+}

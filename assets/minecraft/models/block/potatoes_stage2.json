@@ -1,0 +1,7 @@
+{
+  "parent": "block/crop_small",
+  "textures": {
+    "crop": "block/potatoes_stage2",
+    "dish": "block/potatoes_dish"
+  }
+}
