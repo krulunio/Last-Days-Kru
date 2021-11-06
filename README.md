@@ -12,4 +12,4 @@ This is **LAST DAYS: KRU EDITION**, my edited version of normal Last Days, which
 * **Discord**
  * Join our discord [here](https://discord.gg/QDXhjWx)!
 * **Downloads:**
- * [Home Page for Downloads and Info](https://krulunio.github.io/last_days/)
+ * [Home Page for Downloads and Info](https://krulunio.github.io/last_days/downloads.html)
