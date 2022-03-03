@@ -1,9 +1,9 @@
 {
 	"variants": {
 		"": [
-			{ "model": "block/nether_gold_ore/nether_gold_ore1", "weight": 1 },   
-			{ "model": "block/nether_gold_ore/nether_gold_ore2", "weight": 1 },   
-			{ "model": "block/nether_gold_ore/nether_gold_ore3", "weight": 2 }
+			{ "model": "block/nether_gold_ore/1", "weight": 1 },   
+			{ "model": "block/nether_gold_ore/2", "weight": 1 },   
+			{ "model": "block/nether_gold_ore/3", "weight": 2 }
 		]
 	}
 }

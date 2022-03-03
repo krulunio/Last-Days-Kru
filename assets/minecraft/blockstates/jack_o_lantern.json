@@ -1,31 +1,31 @@
 {
     "variants": {
         "facing=north": [
-		 { "model": "block/jack_o_lantern/jack_o_lantern1", "weight": 2 },
-		 { "model": "block/jack_o_lantern/jack_o_lantern2", "weight": 1 },
-		 { "model": "block/jack_o_lantern/jack_o_lantern3", "weight": 1 },
-		 { "model": "block/jack_o_lantern/jack_o_lantern4", "weight": 1 },
-		 { "model": "block/jack_o_lantern/jack_o_lantern5", "weight": 1 }
+		 { "model": "block/jack_o_lantern/1", "weight": 2 },
+		 { "model": "block/jack_o_lantern/2", "weight": 1 },
+		 { "model": "block/jack_o_lantern/3", "weight": 1 },
+		 { "model": "block/jack_o_lantern/4", "weight": 1 },
+		 { "model": "block/jack_o_lantern/5", "weight": 1 }
 		 ],
         "facing=south": [
-		 { "model": "block/jack_o_lantern/jack_o_lantern1", "weight": 2, "y": 180 },
-		 { "model": "block/jack_o_lantern/jack_o_lantern2", "weight": 1, "y": 180 },
-		 { "model": "block/jack_o_lantern/jack_o_lantern3", "weight": 1, "y": 180 },
-		 { "model": "block/jack_o_lantern/jack_o_lantern4", "weight": 1, "y": 180 },
-		 { "model": "block/jack_o_lantern/jack_o_lantern5", "weight": 1, "y": 180 }
+		 { "model": "block/jack_o_lantern/1", "weight": 2, "y": 180 },
+		 { "model": "block/jack_o_lantern/2", "weight": 1, "y": 180 },
+		 { "model": "block/jack_o_lantern/3", "weight": 1, "y": 180 },
+		 { "model": "block/jack_o_lantern/4", "weight": 1, "y": 180 },
+		 { "model": "block/jack_o_lantern/5", "weight": 1, "y": 180 }
 		 ],
         "facing=west": [ 
-		 { "model": "block/jack_o_lantern/jack_o_lantern1", "weight": 2, "y": 270 },
-		 { "model": "block/jack_o_lantern/jack_o_lantern2", "weight": 1, "y": 270 },
-		 { "model": "block/jack_o_lantern/jack_o_lantern3", "weight": 1, "y": 270 },
-		 { "model": "block/jack_o_lantern/jack_o_lantern4", "weight": 1, "y": 270 },
-		 { "model": "block/jack_o_lantern/jack_o_lantern5", "weight": 1, "y": 270 }
+		 { "model": "block/jack_o_lantern/1", "weight": 2, "y": 270 },
+		 { "model": "block/jack_o_lantern/2", "weight": 1, "y": 270 },
+		 { "model": "block/jack_o_lantern/3", "weight": 1, "y": 270 },
+		 { "model": "block/jack_o_lantern/4", "weight": 1, "y": 270 },
+		 { "model": "block/jack_o_lantern/5", "weight": 1, "y": 270 }
 		 ],
         "facing=east": [ 
-		 { "model": "block/jack_o_lantern/jack_o_lantern1", "weight": 2, "y": 90 },
-		 { "model": "block/jack_o_lantern/jack_o_lantern2", "weight": 1, "y": 90 },
-		 { "model": "block/jack_o_lantern/jack_o_lantern3", "weight": 1, "y": 90 },
-		 { "model": "block/jack_o_lantern/jack_o_lantern4", "weight": 1, "y": 90 },
-		 { "model": "block/jack_o_lantern/jack_o_lantern5", "weight": 1, "y": 90 } ]
+		 { "model": "block/jack_o_lantern/1", "weight": 2, "y": 90 },
+		 { "model": "block/jack_o_lantern/2", "weight": 1, "y": 90 },
+		 { "model": "block/jack_o_lantern/3", "weight": 1, "y": 90 },
+		 { "model": "block/jack_o_lantern/4", "weight": 1, "y": 90 },
+		 { "model": "block/jack_o_lantern/5", "weight": 1, "y": 90 } ]
     }
 }

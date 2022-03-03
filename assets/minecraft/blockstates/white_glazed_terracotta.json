@@ -1,16 +1,16 @@
 {
   "variants": {
     "facing=north": {
-      "model": "minecraft:block/white_glazed_terracotta/white_glazed_terracotta1"
+      "model": "minecraft:block/white_glazed_terracotta/1"
     },
     "facing=east": {
-      "model": "minecraft:block/white_glazed_terracotta/white_glazed_terracotta2"
+      "model": "minecraft:block/white_glazed_terracotta/2"
     },
     "facing=south": {
-      "model": "minecraft:block/white_glazed_terracotta/white_glazed_terracotta3"
+      "model": "minecraft:block/white_glazed_terracotta/3"
     },
     "facing=west": {
-      "model": "minecraft:block/white_glazed_terracotta/white_glazed_terracotta4"
+      "model": "minecraft:block/white_glazed_terracotta/4"
     }
   }
 }

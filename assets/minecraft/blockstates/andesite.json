@@ -1,11 +1,11 @@
 {
     "variants": {
         "": [
-			{ "model": "block/andesite/andesite1", "weight": 9 },
-			{ "model": "block/andesite/andesite2", "weight": 9 },
-			{ "model": "block/andesite/andesite3", "weight": 9 },
-			{ "model": "block/andesite/andesite4", "weight": 4 },
-			{ "model": "block/andesite/andesite5", "weight": 1 }
+			{ "model": "block/andesite/1", "weight": 9 },
+			{ "model": "block/andesite/2", "weight": 9 },
+			{ "model": "block/andesite/3", "weight": 9 },
+			{ "model": "block/andesite/4", "weight": 4 },
+			{ "model": "block/andesite/5", "weight": 1 }
 		]
     }
 }
