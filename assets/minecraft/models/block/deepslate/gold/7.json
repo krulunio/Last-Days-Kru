@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_top",
+    "textures": {
+		"side": "block/deepslate",
+        "top": "block/deepslate/gold/7"
+    }
+}
