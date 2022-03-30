@@ -1,0 +1,13 @@
+{
+	"block.bell.use": {
+		"replace": true,
+		"sounds": [
+			{
+				"name": "block/bell/bell_use",
+				"pitch": 0.93,
+				"volume": 12.0
+			}
+		],
+		"subtitle": "subtitles.block.bell.use"
+	}
+}
