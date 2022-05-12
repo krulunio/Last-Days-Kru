@@ -1,9 +1,0 @@
-{
-    "variants": {
-        "": [
-			{ "model": "block/yellow_carpet/1", "weight": 1 },
-			{ "model": "block/yellow_carpet/2", "weight": 1 },
-			{ "model": "block/yellow_carpet/3", "weight": 1 }
-		]
-    }
-}

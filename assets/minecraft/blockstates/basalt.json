@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "axis=x": [
+		{ "model": "minecraft:block/basalt/1", "x": 90, "y": 90 },
+		{ "model": "minecraft:block/basalt/2", "x": 90, "y": 90 },
+		{ "model": "minecraft:block/basalt/3", "x": 90, "y": 90 },
+		{ "model": "minecraft:block/basalt/4", "x": 90, "y": 90 }
+	],
+    "axis=y": [
+		{ "model": "minecraft:block/basalt/1" },
+		{ "model": "minecraft:block/basalt/2" },
+		{ "model": "minecraft:block/basalt/3" },
+		{ "model": "minecraft:block/basalt/4" }
+	],
+    "axis=z": [
+		{ "model": "minecraft:block/basalt/1", "x": 90 },
+		{ "model": "minecraft:block/basalt/2", "x": 90 },
+		{ "model": "minecraft:block/basalt/3", "x": 90 },
+		{ "model": "minecraft:block/basalt/4", "x": 90 }
+	]
+  }
+}

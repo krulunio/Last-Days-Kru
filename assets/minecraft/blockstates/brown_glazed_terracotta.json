@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "minecraft:block/glazed_terracotta/brown/column", "x": 90
+    },
+    "facing=east": {
+      "model": "minecraft:block/glazed_terracotta/brown/column", "x": 90, "y": 90
+    },
+    "facing=south": {
+      "model": "minecraft:block/glazed_terracotta/brown/column"
+    },
+    "facing=west": {
+      "model": "minecraft:block/glazed_terracotta/brown/cross"
+    }
+  }
+}
