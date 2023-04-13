@@ -1,0 +1,3 @@
+bone: bone
+bone meal: fertilizer
+bone block: bone block

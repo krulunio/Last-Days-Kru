@@ -1,0 +1,24 @@
+lore:
+	shack or tree (cold biome)
+	shacks are made of bioplastic (bioplastic is just plastic that can decay)
+
+names: if it's shack, say what is it; if it's tree, also say what is it
+	block/item:
+		stripped: repaired/stripped
+		log: stilt/log
+		wood: bioplastic/wood
+		planks: panel/planks
+		leaves: sheet/leaves
+		sapling: shack-in-the-box/sapling
+	tree: shack/tree
+		oak: cheap (it's everywhere)
+		birch: upgraded (looks like oak; still common, but less than oak)
+		spruce: spruce
+		jungle: expensive (rare luxury owned by rich)
+		acacia: expendable (used by rescue parties, while rescuing civies from ruins)
+		dark oak: durable (used by military, offers protection against sky and, partially, land attacks)
+		azalea: botanical (spawns in terraforming labs and has flowers)
+			flowering: charged
+			shrub: shack-in-the-crate
+			rooted dirt: hydration pipes (not botanical)
+			hanging roots: loose pipes (not botanical)

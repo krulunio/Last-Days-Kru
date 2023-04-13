@@ -1,0 +1,70 @@
+temperature:
+	irradiation (colder = less radiation; required)
+	temperature (colder = colder; probably required)
+	urbanization (colder = less urbanized; optional, don't force it)
+
+Overworld: Earth
+	snowy: snowy
+	deserts: salted farm (salt bombs instead normal nukes)
+	badlands: nuked factory
+		wooded: with town
+		eroded: eroded
+	savanna: razed city
+		plateau: high-rises
+		windswept: skyscrapers
+	plains: wasteland
+		sunflower: with Sputniks
+	forests: town/city(at least 3 or 4 stories high trees)/forest
+		default: poor shack town
+			flower: poor garden town
+		birch: rich shack town
+			old growth: two-story
+		jungle: rich shack city
+			sparse: suburbs
+			bamboo: manufacture
+		taiga: spruce forest
+			old growth pine: giant pine forest
+			old growth spruce: giant spruce forest
+		dark forest: military shack
+		swamp: flooded
+	beaches/shores: shore
+		stony: collapsed
+	slopes: landslide
+	peaks/hills: ruins
+		jagged: frozen skyscrapers
+		frozen: frozen reservoir
+		stony: high-rises
+		windswept: overgrown high-rises
+		windswept gravelly: eroded high-rises
+		windswept forest: overgrown high-rises ... with town
+	cave: 
+		dripstone: pumping station (dripstones are pumping pipes)
+		lush: terraforming lab
+	aquatic: 
+		river: river
+		ocean: ocean
+			deep: deep
+			warm: warm
+			lukewarm: lukewarm
+			cold: cold
+			frozen: frozen
+		
+	special:
+		ice spikes: frozen burst pipes
+		mushroom fields: recyclers factory
+		void: void
+
+
+Nether: inside of Moon
+	wastes: Moon wasteland
+	soul sand valley: destroyed industrial park
+	crimson forest: ranch shack town
+	warped forest: enclave shack town
+	basalt deltas: destroyed Nuclear Waste Storage Site
+
+End: Realm of Madness
+	main island: Madness hub
+	small islands: small Mad islands
+	highlands: Mad island center
+	midlands: Mad island shore
+	barrens: Mad island edge

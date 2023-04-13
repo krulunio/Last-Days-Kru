@@ -1,0 +1,12 @@
+lore: 
+
+nether wart: chemical collector
+nylium: recycling moon rock
+fungus: extractor in-the-box
+	crimson: Moon
+	warped: warped Moon
+	stem: stilt
+	wart block: sheet
+	roots: ???
+	sprouts: ???
+shroomlight: recycler lamp

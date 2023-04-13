@@ -1,0 +1,39 @@
+usage:
+	real life:
+		-food
+		-honey
+		-decoration
+		-dyes
+		-drugs
+		-perfumes
+		-companion plants (helps other plants)
+	in game:
+		-food (sus stew)
+		-honey
+		-decoration
+		-dyes
+		-drugs (sus stew effects)
+
+lore:
+	plants (food, honey, drugs, only dandelion and poppy spawn in extreme temperatures)
+	mutated (only dandelion and poppy spawn in colder biomes, also main LD textures look bizzare enough)
+
+names: try to use main LD names or describe it, translate to uncommon language (i.e. french), modify it to sound cooler/simpler/less obvious
+	dandelion: Ironweed
+	poppy: Fleurs Rouge
+	blue orchid: Geiger Flower
+	allium: Recplant
+	azure bluet: Tamanegi Bush
+	tulips: Welle
+		red: Rouge
+		orange: Daidai
+		white: Biel
+		pink: Rosa
+	oxeye daisy: Helico
+	cornflower: Cornflower
+	lily of the valley: Lily of the Valley
+	wither rose: Fletri Flower
+	sunflower: Sputnik Plant
+	lilac: ?
+	rose bush: Survey Stalk
+	peony: Survey Bush

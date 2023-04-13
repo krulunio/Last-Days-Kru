@@ -1,0 +1,12 @@
+lore: before war, recycler-in-the-box was developed, that recycled biodegradable matter to grow. Those recyclers could either be used as emergency food or, if provided too much nutrients, grow into shacks. Due to those properties, military took great intrest in recyclers, but civilians could also acquire them. Nowadays, those recyclers can be found in dank places, like underground ruins or military shack cities
+
+mushroom: recycler in-the-box
+	red: sphere
+	brown: platform
+	stem: stilt
+	block: sheet
+
+mooshroom: recycling cow
+mycelium: recycling soil
+mushroom stew: melted recycler stew
+sus stew: spiced melted recycler stew
