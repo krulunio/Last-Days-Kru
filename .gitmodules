@@ -1,0 +1,3 @@
+[submodule "assets/minecraft/lang/json_tool"]
+	path = assets/minecraft/lang/json_tool
+	url = https://github.com/krulunio/json_tool
