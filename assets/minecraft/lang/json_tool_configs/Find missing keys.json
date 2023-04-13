@@ -1,0 +1,8 @@
+{
+	"Find missing keys": {
+		"action": "values",
+		"template_file": "../en_us.json",
+		"input_file": "../en_ld.json",
+		"output_file": "../json_tool_missing/Find missing keys.json"
+	}
+}

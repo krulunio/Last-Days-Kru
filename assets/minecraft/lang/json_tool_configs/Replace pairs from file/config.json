@@ -1,0 +1,9 @@
+{
+	"Set various pairs": {
+		"action": "set_pairs_from_file",
+		"pairs_file": "../json_tool_configs/Replace pairs from file/General.json",
+		"input_file": "../en_ld.json",
+		"output_file": "../en_ld.json",
+		"missing_file": "../json_tool_missing/Replace pairs from file/General.json"
+	}
+}

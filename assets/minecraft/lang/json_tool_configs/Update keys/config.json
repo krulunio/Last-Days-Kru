@@ -1,0 +1,22 @@
+{
+	"Trees": {
+		"pattern_file": "../json_tool_configs/Update keys/Trees.json",
+		"input_file": "../en_ld.json",
+		"output_file": "../en_ld.json"
+	},
+	"Mushrooms": {
+		"pattern_file": "../json_tool_configs/Update keys/Mushrooms.json",
+		"input_file": "../en_ld.json",
+		"output_file": "../en_ld.json"
+	},
+	"Stone": {
+		"pattern_file": "../json_tool_configs/Update keys/Stone.json",
+		"input_file": "../en_ld.json",
+		"output_file": "../en_ld.json"
+	},
+	"General": {
+		"pattern_file": "../json_tool_configs/Update keys/General.json",
+		"input_file": "../en_ld.json",
+		"output_file": "../en_ld.json"
+	}
+}

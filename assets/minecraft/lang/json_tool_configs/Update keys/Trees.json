@@ -1,0 +1,142 @@
+{
+	"tags": {
+		"dark_oak": ["dark", "oak"],
+		"shacks": ["oak", "birch", "jungle", "acacia", "azalea"],
+		"trees": ["spruce"]
+	},
+	"key_root": "block.minecraft",
+	"patterns": [
+		{
+			"inclusions": ["oak"],
+			"action": "base",
+			"value": "Cheap Shack",
+			"exclusions": ["dark"]
+		},
+		{
+			"inclusions": ["birch"],
+			"action": "base",
+			"value": "Upgraded Shack"
+		},
+		{
+			"inclusions": ["jungle"],
+			"action": "base",
+			"value": "Expensive Shack"
+		},
+		{
+			"inclusions": ["spruce"],
+			"action": "base",
+			"value": "Spruce Tree"
+		},
+		{
+			"inclusions": ["acacia"],
+			"action": "base",
+			"value": "Expendable Shack"
+		},
+		{
+			"inclusions": ["#dark_oak"],
+			"action": "base",
+			"value": "Durable Shack"
+		},
+		{
+			"inclusions": ["azalea"],
+			"action": "base",
+			"value": "Botanical Shack-In-The-Crate"
+		},
+		{
+			"inclusions": ["stripped"],
+			"action": "begin",
+			"value": "Repaired",
+			"separator": " ",
+			"exclusions": ["#trees"]
+		},
+		{
+			"inclusions": ["stripped"],
+			"action": "begin",
+			"value": "Stripped",
+			"separator": " ",
+			"exclusions": ["#shacks"]
+		},
+		{
+			"inclusions": ["azalea", "flowering"],
+			"action": "begin",
+			"value": "Charged",
+			"separator": " "
+		},
+		{
+			"inclusions": ["log"],
+			"action": "end",
+			"value": "Stilt",
+			"separator": " ",
+			"exclusions": ["#trees"]
+		},
+		{
+			"inclusions": ["wood"],
+			"action": "end",
+			"value": "Bioplastic",
+			"separator": " ",
+			"exclusions": ["#trees"]
+		},
+		{
+			"inclusions": ["planks"],
+			"action": "end",
+			"value": "Panel",
+			"separator": " ",
+			"exclusions": ["#trees"]
+		},
+		{
+			"inclusions": ["leaves"],
+			"action": "end",
+			"value": "Sheet",
+			"separator": " ",
+			"exclusions": ["#trees"]
+		},
+		{
+			"inclusions": ["sapling"],
+			"action": "end",
+			"value": "In-The-Box",
+			"separator": " ",
+			"exclusions": ["#trees"]
+		},
+		{
+			"inclusions": ["log"],
+			"action": "end",
+			"value": "Log",
+			"separator": " ",
+			"exclusions": ["#shacks"]
+		},
+		{
+			"inclusions": ["wood"],
+			"action": "end",
+			"value": "Wood",
+			"separator": " ",
+			"exclusions": ["#shacks"]
+		},
+		{
+			"inclusions": ["planks"],
+			"action": "end",
+			"value": "Planks",
+			"separator": " ",
+			"exclusions": ["#shacks"]
+		},
+		{
+			"inclusions": ["leaves"],
+			"action": "end",
+			"value": "Leaves",
+			"separator": " ",
+			"exclusions": ["#shacks"]
+		},
+		{
+			"inclusions": ["sapling"],
+			"action": "end",
+			"value": "Sapling",
+			"separator": " ",
+			"exclusions": ["#shacks"]
+		},
+		{
+			"inclusions": ["azalea", "leaves"],
+			"action": "replace",
+			"replace_what": "Shack-In-The-Crate",
+			"replace_with": "Sheet"
+		}
+	]
+}

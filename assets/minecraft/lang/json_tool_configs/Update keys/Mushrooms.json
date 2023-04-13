@@ -1,0 +1,54 @@
+{
+	"patterns": [
+		{
+			"inclusions": ["red", "mushroom"],
+			"action": "base",
+			"value": "Sphere Recycler"
+		},
+		{
+			"inclusions": ["brown", "mushroom"],
+			"action": "base",
+			"value": "Platform Recycler"
+		},
+		{
+			"inclusions": ["crimson"],
+			"action": "base",
+			"value": "Moon"
+		},
+		{
+			"inclusions": ["warped"],
+			"action": "base",
+			"value": "Warped Moon"
+		},
+		{
+			"inclusions": ["mushroom", "stem"],
+			"action": "base",
+			"value": "Recycler Stilt (ROZDZIEL)"
+		},
+		{
+			"inclusions": ["mushroom"],
+			"action": "end",
+			"value": "In-The-Box",
+			"separator": " ",
+			"exclusions": ["block", "fields"]
+		},
+		{
+			"inclusions": ["mushroom", "block"],
+			"action": "end",
+			"separator": " ",
+			"value": "Sheet"
+		},
+		{
+			"inclusions": ["stem"],
+			"action": "end",
+			"value": "Stilt",
+			"separator": " "
+		},
+		{
+			"inclusions": ["hyphae"],
+			"action": "end",
+			"value": "Stilt",
+			"separator": " "
+		}
+	]
+}

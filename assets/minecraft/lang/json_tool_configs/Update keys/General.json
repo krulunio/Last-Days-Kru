@@ -1,0 +1,108 @@
+{
+	"tags": {},
+	"key_root": "block.minecraft",
+	"patterns": [
+		{
+			"inclusions": ["potted"],
+			"action": "begin",
+			"value": "Potted",
+			"separator": " "
+		},
+		{
+			"inclusions": ["mossy"],
+			"action": "begin",
+			"value": "",
+			"separator": " "
+		},
+		{
+			"inclusions": ["cracked"],
+			"action": "begin",
+			"value": "",
+			"separator": " "
+		},
+		{
+			"inclusions": ["chiseled"],
+			"action": "begin",
+			"value": "",
+			"separator": " "
+		},
+		{
+			"inclusions": ["cut"],
+			"action": "begin",
+			"value": "",
+			"separator": " "
+		},
+		{
+			"inclusions": ["bricks"],
+			"action": "end",
+			"value": "Bricks",
+			"separator": " "
+		},
+		{
+			"inclusions": ["brick"],
+			"action": "end",
+			"value": "Brick",
+			"separator": " "
+		},
+		{
+			"inclusions": ["slab"],
+			"action": "end",
+			"value": "Slab",
+			"separator": " "
+		},
+		{
+			"inclusions": ["stairs"],
+			"action": "end",
+			"value": "Stairs",
+			"separator": " "
+		},
+		{
+			"inclusions": ["button"],
+			"action": "end",
+			"value": "Button",
+			"separator": " "
+		},
+		{
+			"inclusions": ["pressure", "plate"],
+			"action": "end",
+			"value": "Pressure Plate",
+			"separator": " "
+		},
+		{
+			"inclusions": ["door"],
+			"action": "end",
+			"value": "Door",
+			"separator": " "
+		},
+		{
+			"inclusions": ["trapdoor"],
+			"action": "end",
+			"value": "Trapdoor",
+			"separator": " "
+		},
+		{
+			"inclusions": ["wall"],
+			"action": "end",
+			"value": "Wall",
+			"separator": " "
+		},
+		{
+			"inclusions": ["fence"],
+			"action": "end",
+			"value": "Fence",
+			"separator": " "
+		},
+		{
+			"inclusions": ["gate"],
+			"action": "end",
+			"value": "Gate",
+			"separator": " "
+		},
+		{
+			"inclusions": ["sign"],
+			"action": "end",
+			"value": "Sign",
+			"separator": " "
+		}
+	]
+}

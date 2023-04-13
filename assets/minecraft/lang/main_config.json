@@ -1,0 +1,22 @@
+{
+	"Create base file": {
+		"add_missing": [
+			"../json_tool_configs/Create base file.json"
+		]
+	},
+	"Update keys": {
+		"replace_values": [
+			"../json_tool_configs/Update keys/config.json"
+		]
+	},
+	"Replace pairs from file": {
+		"add_from_file": [
+			"../json_tool_configs/Replace pairs from file/config.json"
+		]
+	},
+	"Find missing keys": {
+		"find_missing": [
+			"../json_tool_configs/Find missing keys.json"
+		]
+	}
+}

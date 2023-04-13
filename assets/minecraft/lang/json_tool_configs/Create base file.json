@@ -1,0 +1,8 @@
+{
+	"Create base file": {
+		"action": "set_all_to_default",
+		"default_value": "",
+		"template_file": "../en_us.json",
+		"output_file": "../en_ld.json"
+	}
+}
