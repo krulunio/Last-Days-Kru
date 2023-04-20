@@ -8,5 +8,5 @@ mushroom: recycler in-the-box
 
 mooshroom: recycling cow
 mycelium: recycling soil
-mushroom stew: melted recycler stew
-sus stew: spiced melted recycler stew
+mushroom stew: recycler stew
+sus stew: spiced recycler stew

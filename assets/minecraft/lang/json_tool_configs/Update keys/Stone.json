@@ -96,24 +96,28 @@
 			"exclusions": ["#polished_exceptions"]
 		},
 		{
-			"inclusions": ["cobbled"],
-			"action": "end",
-			"value": "Rubble"
-		},
-		{
 			"inclusions": ["dripstone", "pointed"],
 			"action": "end",
+			"separator": " ",
 			"value": "Fragment"
 		},
 		{
 			"inclusions": ["tiles"],
 			"action": "end",
+			"separator": " ",
 			"value": "Tiles"
 		},
 		{
 			"inclusions": ["tile"],
 			"action": "end",
+			"separator": " ",
 			"value": "Tile"
+		},
+		{
+			"inclusions": ["cobbled"],
+			"action": "replace",
+			"replace_what": "Stone",
+			"replace_with": "Rubble"
 		}
 	]
 }
