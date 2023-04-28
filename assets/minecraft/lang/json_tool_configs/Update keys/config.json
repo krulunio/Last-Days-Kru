@@ -1,22 +1,13 @@
 {
-	"Trees": {
-		"pattern_file": "../json_tool_configs/Update keys/Trees.json",
-		"input_file": "../en_ld.json",
-		"output_file": "../en_ld.json"
+	"@default": {
+		"input_file": "en_ld.json",
+		"output_file": "en_ld.json",
+		"io_path": "..",
+		"pattern_path": "../json_tool_configs/Update keys"
 	},
-	"Mushrooms": {
-		"pattern_file": "../json_tool_configs/Update keys/Mushrooms.json",
-		"input_file": "../en_ld.json",
-		"output_file": "../en_ld.json"
-	},
-	"Stone": {
-		"pattern_file": "../json_tool_configs/Update keys/Stone.json",
-		"input_file": "../en_ld.json",
-		"output_file": "../en_ld.json"
-	},
-	"General": {
-		"pattern_file": "../json_tool_configs/Update keys/General.json",
-		"input_file": "../en_ld.json",
-		"output_file": "../en_ld.json"
-	}
+	"Trees": "Trees.json",
+	"Mushrooms": "Mushrooms.json",
+	"Soil": "Soil.json",
+	"Stone": "Stone.json",
+	"General": "General.json"
 }

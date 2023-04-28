@@ -6,6 +6,8 @@
 	"merchant.deprecated": "Masked restock up to two times per day.",
 	
 	"block.minecraft.hay_block": "TO BE REPLACED",
+	"block.minecraft.dirt": "TO BE REPLACED",
+	"block.minecraft.coarse_dirt": "TO BE REPLACED",
 	"block.minecraft.podzol": "TO BE REPLACED",
 	"block.minecraft.bedrock": "TO BE REPLACED",
 	"block.minecraft.gravel": "TO BE REPLACED",
@@ -26,6 +28,7 @@
 	"block.minecraft.carrots": "TO BE REPLACED",
 	"block.minecraft.potatoes": "TO BE REPLACED",
 	"block.minecraft.beetroots": "TO BE REPLACED",
+	"block.minecraft.dirt_path": "TO BE REPLACED",
 	"block.minecraft.magma_block": "TO BE REPLACED",
 	"block.minecraft.observer": "TO BE REPLACED",
 	"block.minecraft.end_gateway": "TO BE REPLACED",
@@ -38,6 +41,7 @@
 	"block.minecraft.calcite": "TO BE REPLACED",
 	"block.minecraft.tuff": "TO BE REPLACED",
 	"block.minecraft.spore_blossom": "TO BE REPLACED",
+	"block.minecraft.rooted_dirt": "TO BE REPLACED",
 	"block.minecraft.glow_lichen": "TO BE REPLACED",
 	
 	"item.minecraft.name_tag": "TO BE REPLACED",

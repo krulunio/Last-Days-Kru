@@ -103,6 +103,12 @@
 			"action": "end",
 			"value": "Sign",
 			"separator": " "
+		},
+		{
+			"inclusions": ["block"],
+			"action": "end",
+			"value": "Block",
+			"separator": " "
 		}
 	]
 }

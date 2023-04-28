@@ -1,0 +1,24 @@
+{
+	"tags": {
+	},
+	"key_root": "block.minecraft",
+	"patterns": [
+		{
+			"inclusions": ["stone"],
+			"action": "base",
+			"value": "Rubble",
+			"exclusions": ["end"]
+		},
+		{
+			"inclusions": ["sand"],
+			"action": "base",
+			"value": "Sand"
+		},
+		{
+			"inclusions": ["red", "sand"],
+			"action": "begin",
+			"value": "Rusty",
+			"separator": " "
+		}
+	]
+}

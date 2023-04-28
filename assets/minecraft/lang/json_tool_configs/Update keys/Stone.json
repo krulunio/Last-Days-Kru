@@ -1,22 +1,18 @@
 {
 	"tags": {
-		"polished_exceptions":[
-			"deepslate",
-			"blackstone"
-		]
 	},
 	"key_root": "block.minecraft",
 	"patterns": [
 		{
 			"inclusions": ["stone"],
 			"action": "base",
-			"value": "Stone",
+			"value": "Rubble",
 			"exclusions": ["end"]
 		},
 		{
 			"inclusions": ["cobblestone"],
 			"action": "base",
-			"value": "Rubble"
+			"value": "Loose Rubble"
 		},
 		{
 			"inclusions": ["granite"],
@@ -36,13 +32,7 @@
 		{
 			"inclusions": ["deepslate"],
 			"action": "base",
-			"value": "Compressed Stone",
-			"exclusions": ["polished"]
-		},
-		{
-			"inclusions": ["polished", "deepslate"],
-			"action": "base",
-			"value": ""
+			"value": "Durable Rubble"
 		},
 		{
 			"inclusions": ["sandstone"],
@@ -57,13 +47,7 @@
 		{
 			"inclusions": ["blackstone"],
 			"action": "base",
-			"value": "Moon Rubble",
-			"exclusions": ["polished"]
-		},
-		{
-			"inclusions": ["polished", "blackstone"],
-			"action": "base",
-			"value": ""
+			"value": "Moon Rubble"
 		},
 		{
 			"inclusions": ["netherrack"],
@@ -78,9 +62,8 @@
 		{
 			"inclusions": ["smooth"],
 			"action": "begin",
-			"value": "Plating",
-			"separator": " ",
-			"exclusions": ["quartz"]
+			"value": "Reinforced",
+			"separator": " "
 		},
 		{
 			"inclusions": ["infested"],
@@ -90,10 +73,9 @@
 		},
 		{
 			"inclusions": ["polished"],
-			"action": "begin",
-			"value": "Covered",
+			"action": "end",
 			"separator": " ",
-			"exclusions": ["#polished_exceptions"]
+			"value": "Plating"
 		},
 		{
 			"inclusions": ["dripstone", "pointed"],
@@ -115,9 +97,9 @@
 		},
 		{
 			"inclusions": ["cobbled"],
-			"action": "replace",
-			"replace_what": "Stone",
-			"replace_with": "Rubble"
+			"action": "end",
+			"separator": " ",
+			"value": "Loose"
 		}
 	]
 }
