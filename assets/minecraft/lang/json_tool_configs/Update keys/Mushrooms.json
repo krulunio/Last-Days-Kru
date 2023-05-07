@@ -1,51 +1,26 @@
 {
+	"tags": {
+		"recycler_exclusions": [
+			"pumpkin",
+			"melon",
+			"dripleaf"
+		]
+	},
+	"reduced_patterns": {
+		"base": {
+			"red_mushroom": "Sphere Recycler",
+			"brown_mushroom": "Platform Recycler",
+			"crimson": "Moon",
+			"warped": "Warped Moon"
+		},
+		"end": {
+			"hyphae": "Biosilicone"
+		}
+	},
 	"patterns": [
 		{
-			"inclusions": ["red", "mushroom"],
-			"action": "base",
-			"value": "Sphere Recycler"
-		},
-		{
-			"inclusions": ["brown", "mushroom"],
-			"action": "base",
-			"value": "Platform Recycler"
-		},
-		{
-			"inclusions": ["crimson"],
-			"action": "base",
-			"value": "Moon"
-		},
-		{
-			"inclusions": ["warped"],
-			"action": "base",
-			"value": "Warped Moon"
-		},
-		{
-			"inclusions": ["mushroom", "stem"],
-			"action": "base",
-			"value": "Recycler Stilt (ROZDZIEL)"
-		},
-		{
-			"inclusions": ["mushroom"],
-			"action": "end",
-			"value": "In-The-Box",
-			"separator": " ",
-			"exclusions": ["block", "fields"]
-		},
-		{
-			"inclusions": ["mushroom", "block"],
-			"action": "end",
-			"separator": " ",
-			"value": "Sheet"
-		},
-		{
 			"inclusions": ["stem"],
-			"action": "end",
-			"value": "Stilt",
-			"separator": " "
-		},
-		{
-			"inclusions": ["hyphae"],
+			"exclusions": ["#recycler_exclusions"],
 			"action": "end",
 			"value": "Stilt",
 			"separator": " "

@@ -1,0 +1,21 @@
+stone variants: rubble
+cobblestone variants: sorted rubble (because you mined it)
+
+stone: rubble (it's generic, like stone itself)
+deepslate: durable rubble (still generic, but contains stronger stuff and is itself stronger)
+blackstone: Moon rubble (it's rubble, but on Moon)
+
+whatever this group is called: frames
+diorite: rigid frame (sounds cool)
+granite: rebar frame (sounds cool)
+andesite: solid frame (sounds cool)
+
+sandstone: poor concrete (uses sand, but lacks gravel, so it's weak)
+red sandstone: rusty concrete (still weak, but with rust)
+
+netherack: moon stone (moon was less developed than earth, so natural moon stone exists)
+end stone: mad stone (boring name for boring item)
+
+dripstone: defective pipe (it should be pumping fluids, but it's defective, so it only "pumps" downward)
+
+ancient city: military stronghold (build/taken by soldiers after event, then abandoned/destroyed, then scouted by military raiders)

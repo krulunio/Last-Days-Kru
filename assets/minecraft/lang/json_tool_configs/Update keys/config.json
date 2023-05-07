@@ -1,13 +1,12 @@
 {
-	"@default": {
-		"input_file": "en_ld.json",
-		"output_file": "en_ld.json",
-		"io_path": "..",
-		"pattern_path": "../json_tool_configs/Update keys"
-	},
-	"Trees": "Trees.json",
-	"Mushrooms": "Mushrooms.json",
-	"Soil": "Soil.json",
-	"Stone": "Stone.json",
-	"General": "General.json"
+	"input_file": "../en_ld.json",
+	"output_file": "../en_ld.json",
+	"pattern_path": "../json_tool_configs/Update keys",
+	"pattern_files": [
+		"Trees.json",
+		"Mushrooms.json",
+		"Soil.json",
+		"Stone.json",
+		"General.json"
+	]
 }

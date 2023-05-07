@@ -39,7 +39,8 @@ Overworld: Earth
 		windswept forest: overgrown high-rises ... with town
 	cave: 
 		dripstone: pumping station (dripstones are pumping pipes)
-		lush: terraforming lab
+		lush: terraforming lab (moss)
+		deep dark: singularity? some kind of police/military network?
 	aquatic: 
 		river: river
 		ocean: ocean

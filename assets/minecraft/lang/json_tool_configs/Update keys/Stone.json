@@ -1,105 +1,50 @@
 {
 	"tags": {
+		"stone_exclusions": [
+			"end",
+			"cobble",
+			"sand",
+			"red",
+			"glow",
+			"grind",
+			"cutter",
+			"lode",
+			"black",
+			"drip"
+		]
 	},
 	"key_root": "block.minecraft",
+	"reduced_patterns": {
+		"base": {
+			"granite": "Rebar Frame",
+			"diorite": "Rigid Frame",
+			"andesite": "Solid Frame",
+			"deepslate": "Durable Rubble",
+			"sandstone": "Poor Concrete",
+			"red_sandstone": "Rusty Concrete",
+			"dripstone": "Defective Pipe",
+			"blackstone": "Moon Rubble",
+			"netherrack": "Moon Stone",
+			"end_stone": "Mad Stone"
+		},
+		"begin": {
+			"cobble": "Sorted ",
+			"smooth": "Reinforced ",
+			"infested": "Infested ",
+			"polished": "Plastered "
+		},
+		"end": {
+			"pointed_dripstone": " Fragment",
+			"tiles": " Tiles",
+			"tile": " Tile"
+		}
+	},
 	"patterns": [
 		{
 			"inclusions": ["stone"],
 			"action": "base",
 			"value": "Rubble",
-			"exclusions": ["end"]
-		},
-		{
-			"inclusions": ["cobblestone"],
-			"action": "base",
-			"value": "Loose Rubble"
-		},
-		{
-			"inclusions": ["granite"],
-			"action": "base",
-			"value": "Rebar Frame"
-		},
-		{
-			"inclusions": ["diorite"],
-			"action": "base",
-			"value": "Rigid Frame"
-		},
-		{
-			"inclusions": ["andesite"],
-			"action": "base",
-			"value": "Solid Frame"
-		},
-		{
-			"inclusions": ["deepslate"],
-			"action": "base",
-			"value": "Durable Rubble"
-		},
-		{
-			"inclusions": ["sandstone"],
-			"action": "base",
-			"value": "Poor Concrete"
-		},
-		{
-			"inclusions": ["dripstone"],
-			"action": "base",
-			"value": "Defective Pipe"
-		},
-		{
-			"inclusions": ["blackstone"],
-			"action": "base",
-			"value": "Moon Rubble"
-		},
-		{
-			"inclusions": ["netherrack"],
-			"action": "base",
-			"value": "Moon Stone"
-		},
-		{
-			"inclusions": ["end", "stone"],
-			"action": "base",
-			"value": "Mad Stone"
-		},
-		{
-			"inclusions": ["smooth"],
-			"action": "begin",
-			"value": "Reinforced",
-			"separator": " "
-		},
-		{
-			"inclusions": ["infested"],
-			"action": "begin",
-			"value": "Infested",
-			"separator": " "
-		},
-		{
-			"inclusions": ["polished"],
-			"action": "end",
-			"separator": " ",
-			"value": "Plating"
-		},
-		{
-			"inclusions": ["dripstone", "pointed"],
-			"action": "end",
-			"separator": " ",
-			"value": "Fragment"
-		},
-		{
-			"inclusions": ["tiles"],
-			"action": "end",
-			"separator": " ",
-			"value": "Tiles"
-		},
-		{
-			"inclusions": ["tile"],
-			"action": "end",
-			"separator": " ",
-			"value": "Tile"
-		},
-		{
-			"inclusions": ["cobbled"],
-			"action": "end",
-			"separator": " ",
-			"value": "Loose"
+			"exclusions": ["#stone_exclusions"]
 		}
 	]
 }
