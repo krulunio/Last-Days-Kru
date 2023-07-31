@@ -1,0 +1,19 @@
+{
+	"key_roots": ["block.minecraft", "item.minecraft"],
+	"reduced_patterns": {
+		"base": {
+			"water": "Water",
+			"lava": "Nuclear Waste",
+			"milk": "???",
+			"powder_snow": "Powder Snow"
+		},
+		"begin": {
+			"cauldron": "Stationary ",
+			"bucket": "Mobile "
+		},
+		"end": {
+			"cauldron": " Tank",
+			"bucket": " Tank"
+		}
+	}
+}

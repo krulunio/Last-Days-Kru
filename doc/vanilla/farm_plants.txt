@@ -1,0 +1,7 @@
+wheat: universal ration (common; used in food, sometimes building)
+carrots: carrots
+potatoes: potatoes
+beetroots: cheap/shitty food for plebs, cheap food rations? (low saturation, nearly useless)
+melons: luxury ration box? (health potions, generates in jungles and mansions)
+	golden: medical luxury ration?
+pumpkins: monitor parts (common; used in golems, as helmet, in food)

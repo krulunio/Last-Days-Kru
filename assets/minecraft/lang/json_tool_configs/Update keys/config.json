@@ -4,9 +4,12 @@
 	"pattern_path": "../json_tool_configs/Update keys",
 	"pattern_files": [
 		"Trees.json",
+		"Shacks.json",
 		"Mushrooms.json",
 		"Soil.json",
+		"Small_plants.json",
 		"Stone.json",
+		"Liquids.json",
 		"General.json"
 	]
 }

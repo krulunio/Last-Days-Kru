@@ -1,0 +1,21 @@
+{
+	"language.name": "Last Days (EN)",
+	"language.region": "The Wastes",
+	"language.code": "en_ld",
+	
+	"event.minecraft.raid": "TO BE REPLACED",
+	"event.minecraft.raid.raiders_remaining": "TO BE REPLACED",
+	"event.minecraft.raid.victory": "TO BE REPLACED",
+	"event.minecraft.raid.defeat": "TO BE REPLACED",
+	"potion.whenDrank": "TO BE REPLACED",
+	"potion.withAmplifier": "TO BE REPLACED",
+	"potion.withDuration": "TO BE REPLACED",
+	"stat.minecraft.clean_shulker_box": "TO BE REPLACED",
+	"stat.minecraft.bell_ring": "TO BE REPLACED",
+	"stat.minecraft.eat_cake_slice": "TO BE REPLACED",
+	"stat.minecraft.enchant_item": "TO BE REPLACED",
+	"stat.minecraft.horse_one_cm": "TO BE REPLACED",
+	"stat.minecraft.talked_to_villager": "TO BE REPLACED",
+	"stat.minecraft.traded_with_villager": "TO BE REPLACED",
+	"subtitles.ambient.cave": "TO BE REPLACED"
+}

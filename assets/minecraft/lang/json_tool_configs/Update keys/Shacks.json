@@ -1,0 +1,31 @@
+{
+	"key_roots": ["block.minecraft"],
+	"optional_inclusions": ["oak", "birch", "jungle", "acacia", "azalea"],
+	"reduced_patterns": {
+		"base": {
+			"oak": "Cheap Shack",
+			"birch": "Upgraded Shack",
+			"jungle": "Expensive Shack",
+			"acacia": "Expendable Shack",
+			"dark_oak": "Durable Shack"
+		},
+		"begin": {
+			"flowering_azalea": "Charged ",
+			"stripped": "Repaired "
+		},
+		"end": {
+			"log": " Stilt",
+			"wood": " Bioplastic",
+			"planks": " Panel",
+			"leaves": " Sheet",
+			"sapling": " In-The-Box"
+		}
+	},
+	"patterns": [
+		{
+			"exclusions": "leaves",
+			"action": "base",
+			"value": "Botanical Shack-In-The-Crate"
+		}
+	]
+}

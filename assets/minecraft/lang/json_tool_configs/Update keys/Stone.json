@@ -2,32 +2,30 @@
 	"tags": {
 		"stone_exclusions": [
 			"end",
-			"cobble",
 			"sand",
-			"red",
+			"redstone",
 			"glow",
 			"grind",
 			"cutter",
 			"lode",
-			"black",
 			"drip"
 		]
 	},
-	"key_root": "block.minecraft",
+	"key_roots": ["block.minecraft"],
 	"reduced_patterns": {
 		"base": {
+			"sandstone": "Concrete",
 			"granite": "Rebar Frame",
 			"diorite": "Rigid Frame",
 			"andesite": "Solid Frame",
 			"deepslate": "Durable Rubble",
-			"sandstone": "Poor Concrete",
-			"red_sandstone": "Rusty Concrete",
 			"dripstone": "Defective Pipe",
-			"blackstone": "Moon Rubble",
 			"netherrack": "Moon Stone",
 			"end_stone": "Mad Stone"
 		},
 		"begin": {
+			"red_sandstone": "Rusty ",
+			"blackstone": "Moon ",
 			"cobble": "Sorted ",
 			"smooth": "Reinforced ",
 			"infested": "Infested ",
@@ -42,7 +40,7 @@
 	"patterns": [
 		{
 			"inclusions": ["stone"],
-			"action": "base",
+			"action": "end",
 			"value": "Rubble",
 			"exclusions": ["#stone_exclusions"]
 		}

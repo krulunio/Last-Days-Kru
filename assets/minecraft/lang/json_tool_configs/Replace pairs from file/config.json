@@ -1,9 +1,23 @@
 {
-	"Set various pairs": {
+	"Farm_plants": {
 		"action": "set_pairs_from_file",
-		"pairs_file": "../json_tool_configs/Replace pairs from file/General.json",
+		"pairs_file": "../json_tool_configs/Replace pairs from file/Farm_plants.json",
 		"input_file": "../en_ld.json",
 		"output_file": "../en_ld.json",
-		"missing_file": "../json_tool_missing/Replace pairs from file/General.json"
+		"missing_file": "../json_tool_missing/Replace pairs from file/Farm_plants.json"
+	},
+	"Other": {
+		"action": "set_pairs_from_file",
+		"pairs_file": "../json_tool_configs/Replace pairs from file/Other.json",
+		"input_file": "../en_ld.json",
+		"output_file": "../en_ld.json",
+		"missing_file": "../json_tool_missing/Replace pairs from file/Other.json"
+	},
+	"Unsorted": {
+		"action": "set_pairs_from_file",
+		"pairs_file": "../json_tool_configs/Replace pairs from file/Unsorted.json",
+		"input_file": "../en_ld.json",
+		"output_file": "../en_ld.json",
+		"missing_file": "../json_tool_missing/Replace pairs from file/Unsorted.json"
 	}
 }

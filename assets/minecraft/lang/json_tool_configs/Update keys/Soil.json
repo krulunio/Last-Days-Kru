@@ -1,5 +1,5 @@
 {
-	"key_root": "block.minecraft",
+	"key_roots": ["block.minecraft"],
 	"patterns": [
 		{
 			"exclusions": ["stone"],

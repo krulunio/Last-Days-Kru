@@ -1,3 +1,16 @@
-bone: bone
-bone meal: fertilizer
-bone block: bone block
+mobs are biological, mechanical or both
+what if mechanical mobs are made of bio silicone/plastic/metal/something
+skeletons are really old
+
+bones are primitive prosthesis
+taming wolfs: parts from 'bone' are used to repair 'wolf'
+bone meal: phosphate chemicals? probably dust/pellets
+	phosphate is used by body to:
+		build/repair bones (mechanical limbs)
+		helping nerves functions (conectors between prosthesis and host)
+		making muscles contract (artificial muscles)
+	phosphate is also used by some fertilizers
+fossils: big ass robot wreckage
+
+bio skeletons: their arms/legs and other parts are replaced (crudely? profesionally?)
+mech skeletons: their limbs are the same as prosthesis

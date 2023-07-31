@@ -1,0 +1,8 @@
+{
+	"key_roots": ["block.minecraft"],
+	"reduced_patterns": {
+		"base": {
+			"grass": "Grass"
+		}
+	}
+}

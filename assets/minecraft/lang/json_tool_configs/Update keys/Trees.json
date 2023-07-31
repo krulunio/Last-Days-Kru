@@ -1,112 +1,19 @@
 {
-	"tags": {
-		"shacks": ["oak", "birch", "jungle", "acacia", "azalea"],
-		"trees": ["spruce"]
-	},
-	"key_root": "block.minecraft",
+	"key_roots": ["block.minecraft"],
+	"optional_inclusions": ["spruce"],
 	"reduced_patterns": {
 		"base": {
-			"oak": "Cheap Shack",
-			"birch": "Upgraded Shack",
-			"jungle": "Expensive Shack",
-			"spruce": "Spruce",
-			"acacia": "Expendable Shack",
-			"dark_oak": "Durable Shack"
+			"spruce": "Spruce"
 		},
 		"begin": {
-			"flowering_azalea": "Charged "
+			"stripped": "Stripped "
+		},
+		"end": {
+			"log": " Log",
+			"wood": " Wood",
+			"planks": " Planks",
+			"leaves": " Leaves",
+			"sapling": " Sapling"
 		}
-	},
-	"patterns": [
-		{
-			"exclusions": "leaves",
-			"inclusions": ["azalea"],
-			"action": "base",
-			"value": "Botanical Shack-In-The-Crate"
-		},
-		{
-			"inclusions": ["stripped"],
-			"action": "begin",
-			"value": "Repaired",
-			"separator": " ",
-			"exclusions": ["#trees"]
-		},
-		{
-			"inclusions": ["stripped"],
-			"action": "begin",
-			"value": "Stripped",
-			"separator": " ",
-			"exclusions": ["#shacks"]
-		},
-		{
-			"inclusions": ["log"],
-			"action": "end",
-			"value": "Stilt",
-			"separator": " ",
-			"exclusions": ["#trees"]
-		},
-		{
-			"inclusions": ["wood"],
-			"action": "end",
-			"value": "Bioplastic",
-			"separator": " ",
-			"exclusions": ["#trees"]
-		},
-		{
-			"inclusions": ["planks"],
-			"action": "end",
-			"value": "Panel",
-			"separator": " ",
-			"exclusions": ["#trees"]
-		},
-		{
-			"inclusions": ["leaves"],
-			"action": "end",
-			"value": "Sheet",
-			"separator": " ",
-			"exclusions": ["#trees"]
-		},
-		{
-			"inclusions": ["sapling"],
-			"action": "end",
-			"value": "In-The-Box",
-			"separator": " ",
-			"exclusions": ["#trees"]
-		},
-		{
-			"inclusions": ["log"],
-			"action": "end",
-			"value": "Log",
-			"separator": " ",
-			"exclusions": ["#shacks"]
-		},
-		{
-			"inclusions": ["wood"],
-			"action": "end",
-			"value": "Wood",
-			"separator": " ",
-			"exclusions": ["#shacks"]
-		},
-		{
-			"inclusions": ["planks"],
-			"action": "end",
-			"value": "Planks",
-			"separator": " ",
-			"exclusions": ["#shacks"]
-		},
-		{
-			"inclusions": ["leaves"],
-			"action": "end",
-			"value": "Leaves",
-			"separator": " ",
-			"exclusions": ["#shacks"]
-		},
-		{
-			"inclusions": ["sapling"],
-			"action": "end",
-			"value": "Sapling",
-			"separator": " ",
-			"exclusions": ["#shacks"]
-		}
-	]
+	}
 }
